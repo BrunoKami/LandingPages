@@ -3,11 +3,23 @@ section{
     display: flex;
     background-color: blue;
     height: 10vh;
+    width: 100vw;
     justify-content: space-between;
 }
+
 button{
     background-color: orangered;
     width: 10vw;
     height: 5vh;
     border: none;
+    margin-right: 8vw ;
+    margin-top: 2vh;
+    color: white ;
+    font-size: 10px;
+}
+
+.botaos{
+    text-decoration: none;
+    margin-top: 3vh;
+    margin-right: 3vw;
 }
