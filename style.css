@@ -47,7 +47,13 @@ a{
     color: white ;
     font-size: 10px;
 }
+
 #final:active{
     background-color: red;
     color: black;
+}
+
+/* -----------------   parte 1  ------------------------*/
+.busca{
+    background-image: url(https://static.mundoeducacao.uol.com.br/vestibular/2020/11/construcao-de-edificios.jpg);
 }
