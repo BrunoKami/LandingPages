@@ -54,6 +54,50 @@ a{
 }
 
 /* -----------------   parte 1  ------------------------*/
-.busca{
-    background-image: url(https://static.mundoeducacao.uol.com.br/vestibular/2020/11/construcao-de-edificios.jpg);
+
+#busca{
+    background-image: url(https://s2-valor.glbimg.com/WxALoVQXl7N9GwKFEhjsTbHqpzc=/0x0:1536x768/888x0/smart/filters:strip_icc/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/a/z/uQkqLpT1OeigiKc00eUQ/9794a638-cb01-415f-810a-861f4a2ed38a.png);
+    height: 50vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    margin-top: -3.2vh;
+    align-items: center;
+    box-shadow: black;
+}
+
+h2{
+    padding-top: 7vh;
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40vw;
+}
+
+h1{
+    padding-top: 3vh;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 37vw;
+}
+
+#buscar{
+    margin-top: 3vw;
+    height: 7vh;
+    width: 20vw;
+    margin-left: 34vw;
+    border: none;
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+#track{
+    border: none;
+    height: 7vh;
+    width: 10vw;
+    background-color: orangered;
+    color: white;
+    margin-left: -0.3vw;
+}
+#track:active{
+    background-color: red;
+    color: white;
 }
